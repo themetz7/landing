@@ -1,0 +1,22 @@
+.banner {
+  background-size: cover;
+  background-position: center;
+  height: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-size: 24px;
+  font-weight: bold;
+  text-shadow: 5px 5px 10px rgba(0,0,0,0.2);
+  border-radius: 8px;
+  box-shadow: 0 5 15px rgba(0,0,0,0.2);
+}
+
+.banner p {
+  font-size: 16px;
+  text-shadow: 5px 5px 10px rgba(0,0,0,0.2);
+  color: white;
+  margin-bottom: 40px;
+  margin-top: -30px;
+}

@@ -1,0 +1,13 @@
+.btn-ctr {
+  color: white;
+  padding: 15px 25px;
+  border-radius: 16px;
+  font-weight: bold;
+  background: #7FD896;
+  transition: background 0.3s ease;
+}
+
+.btn-ctr:hover {
+  background: #C06C34;
+  transition: background 0.3s ease;
+}
